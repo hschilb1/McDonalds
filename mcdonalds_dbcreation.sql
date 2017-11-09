@@ -1,4 +1,4 @@
-﻿/* Hunter Schilb, Harrison Boehm, Kelsey Claflin, Joseph Gamer    */
+﻿/* Hunter Schilb */
 
 CREATE DATABASE McDonalds;
 GO
